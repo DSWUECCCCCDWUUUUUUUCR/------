@@ -1,0 +1,133 @@
+<!doctype html> <html dir="ltr" lang="zh-Hans"> <head> <meta charset=utf-8> <meta http-equiv=x-ua-compatible content="ie=edge"> <meta name=viewport content="width=device-width, initial-scale=1, shrink-to-fit=no"> <meta name=apple-mobile-web-app-capable content=yes /> <meta name=apple-mobile-web-app-status-bar-style content=black /> <meta name=format-detection content="telephone=no"/> <title>Outlook - 来自 Microsoft 的免费个人电子邮件和日历</title> <meta name=author content="Microsoft"> <link rel="shortcut icon" href="https://ow2.res.office365.com/owalanding/2021.11.10.01/images/favicon.ico?v=4" type="image/x-icon"/> <meta name=google-site-verification content=ndUMYrQxqoeHEcER1rwsksTlMitMJTaJw7AodiXa2JI /> <meta name="msvalidate.01" content=CCBCCCA52CB8A45B73BD0B9A90D648DE /> <meta property="og:site_name" content="Outlook - 来自 Microsoft 的免费个人电子邮件和日历"/> <meta property="og:title" content="Outlook - 来自 Microsoft 的免费个人电子邮件和日历"/> <meta name="twitter:title" content="Outlook - 来自 Microsoft 的免费个人电子邮件和日历"> <meta name=description content="获取免费的 Outlook 电子邮件和日历，还有 Word、Excel 和 PowerPoint 等 Office Online 应用。请进行登录，以访问你的 Outlook、Hotmail 或 Live 电子邮件帐户。"/> <meta property="og:description" content="获取免费的 Outlook 电子邮件和日历，还有 Word、Excel 和 PowerPoint 等 Office Online 应用。请进行登录，以访问你的 Outlook、Hotmail 或 Live 电子邮件帐户。"/> <meta name="twitter:description" content="获取免费的 Outlook 电子邮件和日历，还有 Word、Excel 和 PowerPoint 等 Office Online 应用。请进行登录，以访问你的 Outlook、Hotmail 或 Live 电子邮件帐户。"/> <meta property="og:type" content=website /> <meta name="twitter:card" content=summary_large_image> <meta property="og:image" content="https://ow2.res.office365.com/owalanding/2021.11.10.01/images/opengraph.jpg"/> <meta name="twitter:image" content="https://ow2.res.office365.com/owalanding/2021.11.10.01/images/opengraph.jpg"/> <meta property="og:url" content="https://outlook.live.com/"/> <meta property="og:image:width" content=1200 /> <meta property="og:image:height" content=630 /> <script src="https://az725175.vo.msecnd.net/scripts/jsll-4.js"></script> <script>
+        var config = {
+                autoCapture: {
+                    lineage: true
+                },
+                coreData: {
+                    appId: "OutlookCom"
+                },
+                urlCollectQuery: false,
+                urlCollectHash: false
+            };
+        awa.init(config);
+    </script> <script src="https://ow2.res.office365.com/owalanding/2021.11.10.01/javascripts/vh-check.min.js"></script> <script src="https://ow2.res.office365.com/owalanding/2021.11.10.01/javascripts/jquery-3.2.1.min.js"></script> <script src="https://ow2.res.office365.com/owalanding/2021.11.10.01/javascripts/lazyload.min.js"></script> <script src="https://ow2.res.office365.com/owalanding/2021.11.10.01/javascripts/jquery.onscreen.js"></script> <script src="https://ow2.res.office365.com/owalanding/2021.11.10.01/javascripts/detect-os.js"></script> <script src="https://ow2.res.office365.com/owalanding/2021.11.10.01/javascripts/dom-scripts.js"></script> <link href="https://ow2.res.office365.com/owalanding/2021.11.10.01/stylesheets/compiled.css" rel=stylesheet /> <!--[if lt IE 9]><script src="https://ow2.res.office365.com/owalanding/2021.11.10.01/javascripts/html5shiv.min.js"></script><![endif]--> <!--jquery v3.2.1 - JS Foundation and other contributors - MIT license
+
+Copyright JS Foundation and other contributors, https://js.foundation/
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+jquery.onscreen - Adapt Learning - MIT license
+
+MIT License
+
+Copyright (c) 2019 Adapt Learning
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+lazyload - Andrea Verlicchi - MIT license
+
+MIT License
+
+Copyright (c) 2015 Andrea Verlicchi
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+vh-check - Hiswe - MIT license
+
+MIT License
+
+Copyright (c) 2018 Hiswe
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+html5shiv - Alexander Farkas - MIT license
+
+Permission is hereby granted, free of charge, to any person obtaining a
+copy of this software and associated documentation files (the "Software"),
+to deal in the Software without restriction, including without limitation
+the rights to use, copy, modify, merge, publish, distribute, sublicense,
+and/or sell copies of the Software, and to permit persons to whom the
+Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
+--> <script>
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "7z24oshlqt");
+</script> </head> <body class=preload data-is-probably-mobile-os="" data-likely-os=""> <section name=mobil
